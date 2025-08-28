@@ -1,19 +1,32 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Prajay Pandiri"
+image: "prajay2.jpeg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://linkedin.com/in/prajay-pandiri"
+  - label: Instagram
+    url: "https://instagram.com/prajay.23"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ppandiri"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:prajaypandiri@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a student at the University of Texas at Austin studying Statistics and Data
+Science. I am pursuing a career in Software Engineer. I am a big Green Bay Packers
+fan. I love watching TV, playing Fantasy Football, reading Books, and listening
+to music.
+
+Here are some of books that I recently read:
+
+<ul style="list-style-type: '✅ '; padding-left: 1.2em;">
+  <li>Golden Son</li>
+  <li>Sword of Kaigen</li>
+  <li>Intermezzo</li>
+  <li>A Confederacy of Dunces</li>
+</ul>
+
+Sys.time()
+
