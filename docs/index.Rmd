@@ -29,11 +29,9 @@ Here are some of books that I recently read:
 
 <style>
   .book-list-centered {
-    list-style: disc;
+    display: inline-block;
     list-style-position: inside; 
-    padding-left: 0;             
-    margin: 0 auto 1rem;
-    text-align: center;          
+    text-align: left;          
   }
   .book-list-centered li { margin: .35rem 0; }
 </style>
